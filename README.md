@@ -1,6 +1,6 @@
 ## 
 
-- 🤓 Estudando Testes de Software, Automação e JavaScript
+- 🤓 Estudando Testes de Software, Automação e Java
 - 😄 Pronouns: ele/dele
 
 <div>
